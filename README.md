@@ -40,7 +40,7 @@ Check the updated Figma Design: [Figma Link](https://www.figma.com/design/y7bFCU
 A fully functional **dynamic task board** where tasks appear under the correct columns, and users can **open a modal to view/edit** task details. The project will follow **clean, well-documented, and maintainable code practices**, ensuring a professional and scalable implementation.
 
 
-#🚀 Dynamic Kanban Task Manager
+# 🚀 Dynamic Kanban Task Manager
 
 This project implements a dynamic Kanban board that displays tasks across 3 columns (todo, doing and done) based on their status. Users can click on any task to open a modal window where the tasks details are viewable.
 
