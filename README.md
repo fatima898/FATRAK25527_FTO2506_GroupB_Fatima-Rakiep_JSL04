@@ -38,3 +38,45 @@ Check the updated Figma Design: [Figma Link](https://www.figma.com/design/y7bFCU
 ## Expected Outcome
 
 A fully functional **dynamic task board** where tasks appear under the correct columns, and users can **open a modal to view/edit** task details. The project will follow **clean, well-documented, and maintainable code practices**, ensuring a professional and scalable implementation.
+
+
+#🚀 Dynamic Kanban Task Manager
+
+This project implements a dynamic Kanban board that displays tasks across 3 columns (todo, doing and done) based on their status. Users can click on any task to open a modal window where the tasks details are viewable.
+
+## ⚙️ Technologies Used
+
+- HTML for semantic markup
+- CSS for styling and resposive design 
+- JavaScript for dynamic rendering and event handling
+
+## 🌱 Features
+
+- Dynamic rendering of tasks from JS array into Kanban columns.
+- Modal pop-up to view and edit task details (title, descriptio and status.)
+
+## Setup Instructions 
+
+1. Clone the repositary
+
+2. Navigate to project folder:
+(FATRAK25527_FTO2506_GroupB_Fatima-Rakiep_JSL04)
+
+3. Open index.html in your preferred browser:
+- you can double-click or run a local server for the best results.
+
+## 📃 Usage Instructions 
+
+- On the loading page, tasks will appear under their respective columns based on their status.
+- Click on any task to open a modal displaying the title, description and status.
+- Click close button(the red x) to exit the modal.
+
+## Example
+
+Visual respresentation of tasks across Kanban Manager and the modal pop-up.
+
+## Interaction Instructions 
+
+- Clicking Tasks: Opens a detailed modal.
+- Closing Modal: Click the close(x) button.
+- Resonsive Design: Modal adapts to screen sizes for optimal usability on mobile and desktop.
